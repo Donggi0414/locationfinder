@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="right"
+    android:background="#C1DBE1"
+    android:id="@+id/drawer"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_close"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_margin="20dp"
+        android:text="알려줘 홈즈"/>
+
+    <TextView
+        android:id="@+id/tv_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="HOME"/>
+
+    <TextView
+        android:id="@+id/tv_checkList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="임장 체크리스트" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:layout_margin="20dp"
+        android:text="임장 기록" />
+
+
+</LinearLayout>

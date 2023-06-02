@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775964874330",
+    "project_id": "easylogin-77841",
+    "storage_bucket": "easylogin-77841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775964874330:android:7bece1d7342f25024d2a63",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775964874330-mhn2scidhaurk9df3futsq8aml7gqorh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQL5bVo4Zy13LX1NfsEgkKF6Fi7m0iCGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775964874330-mhn2scidhaurk9df3futsq8aml7gqorh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
